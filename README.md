@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yobreehs/yobreehs/main/banner.svg" width="100%" alt="yobreehs ✿" />
+  <img src="https://raw.githubusercontent.com/yobreehs/yobreehs/main/banner-v2.svg" width="100%" alt="yobreehs ✿" />
 </p>
 
 <p align="center">
